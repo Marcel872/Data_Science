@@ -1,2 +1,2 @@
-# Data_Science
+# ArewaDS-Fellowship
 For Data Science programming repo
